@@ -1,2 +1,2 @@
 # Mini-projects
-This repo consist of different projects on python.
+This repository consists of different projects on python using different packages.
